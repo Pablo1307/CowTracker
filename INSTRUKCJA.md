@@ -1,5 +1,5 @@
 # CowTracker-Intellij-
-(under development) Spring Boot + Angular, testowanie przy pomocy Postman
+ Spring Boot + Angular, testowanie przy pomocy Postman
 
 
 Instrukcja
